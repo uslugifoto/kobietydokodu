@@ -1,5 +1,5 @@
 package pl.goorange.bazakotow.model;
 
-public class Kot tmp{
+public class Kot hugo{
 
 }
